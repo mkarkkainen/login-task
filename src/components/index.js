@@ -5,4 +5,3 @@ export { default as EmailForm } from "./LoginForm/EmailForm";
 export { default as MobileForm } from "./LoginForm/MobileForm";
 export { default as LoginForm } from "./LoginForm/LoginForm";
 export { default as Divider } from "./Utilities/Divider";
-export { default as SignUpForm } from "./SignUpForm/SignUpForm";
