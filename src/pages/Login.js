@@ -25,7 +25,7 @@ const Login = () => {
 
                 <Divider>OR</Divider>
 
-                <Grid item style={{ width: '85%' }}>
+                <Grid item>
                     <LoginForm />
                 </Grid>
 
